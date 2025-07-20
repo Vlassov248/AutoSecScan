@@ -55,7 +55,7 @@ It also includes a basic analysis of the cybersecurity risks associated with OBD
 ##  Files in this project
 
 - [📄 Full Report, Before/After Screenshots(DOCX)](AutoSecScan.docx)
-- [Diagnostic Logs](logs/)
+- [Diagnostic Logs](logs)
 ---
 
 ##  Author
