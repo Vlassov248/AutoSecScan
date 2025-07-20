@@ -1,0 +1,29 @@
+Trouble Codes (Sat Jul 19 09:59:06 2025)
+
+:: Confirmed Diagnostic Trouble Codes ::
+ * P0504: Brake Switch "A"/"B" Correlation (Powertrain, Generic)
+ * P0441: EVAP System Incorrect Purge Flow (Powertrain, Generic)
+
+:: Pending Diagnostic Trouble Codes ::
+ * P0504: Brake Switch "A"/"B" Correlation (Powertrain, Generic)
+ * P0441: EVAP System Incorrect Purge Flow (Powertrain, Generic)
+
+:: Permanent Diagnostic Trouble Codes ::
+ * None
+
+:: Freeze Frame #0 ::
+ * P0504: Brake Switch "A"/"B" Correlation (Powertrain, Generic)
+ * Fuel system status / Fuel system A: Open loop (0)
+ * Fuel system status / Fuel system B: Open loop (0)
+ * Calculated engine load: 29.8 %
+ * Engine Coolant Temperature: 81 °C
+ * Short Term Fuel Trim - Bank 1: 0.0 %
+ * Long Term Fuel Trim - Bank 1: 5.5 %
+ * Engine RPM: 970 RPM
+ * Vehicle Speed Sensor: 6 km/h
+ * Ignition Timing Advance for #1 Cylinder: 21.5
+ * Intake Air Temperature: 38 °C
+ * Air Flow Rate from Mass Flow Sensor: 2.61 g/s
+ * Absolute Throttle Position: 12.9 %
+
+Diagnostic information provided by OBD Auto Doctor

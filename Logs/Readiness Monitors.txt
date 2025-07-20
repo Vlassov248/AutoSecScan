@@ -1,0 +1,36 @@
+Readiness Monitors (Sat Jul 19 10:01:13 2025)
+
+:: Misfire ::
+  * Status since DTCs cleared: Complete
+
+:: Fuel System ::
+  * Status since DTCs cleared: Complete
+
+:: Comprehensive Component ::
+  * Status since DTCs cleared: Complete
+
+:: Catalyst ::
+  * Status since DTCs cleared: Complete
+
+:: Heated Catalyst ::
+  * Status since DTCs cleared: NA
+
+:: Evaporative System ::
+  * Status since DTCs cleared: NA
+
+:: Secondary Air System ::
+  * Status since DTCs cleared: NA
+
+:: Gasoline Particulate Filter ::
+  * Status since DTCs cleared: NA
+
+:: Oxygen Sensor ::
+  * Status since DTCs cleared: Complete
+
+:: Oxygen Sensor Heater ::
+  * Status since DTCs cleared: Complete
+
+:: EGR and/or VVT System ::
+  * Status since DTCs cleared: NA
+
+Diagnostic information provided by OBD Auto Doctor

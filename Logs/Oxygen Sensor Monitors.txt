@@ -1,0 +1,16 @@
+Oxygen Sensor Monitors (Sat Jul 19 10:01:42 2025)
+
+:: Bank 1 - Sensor 1 ::
+ * $01 - Rich to lean sensor threshold voltage (constant): 0.450 V -> Passed
+ * $02 - Lean to rich sensor threshold voltage (constant): 0.450 V -> Passed
+ * $07 - Minimum sensor voltage for test cycle (calculated): 0.000 V -> Passed
+ * $08 - Maximum sensor voltage for test cycle (calculated): 0.940 V -> Passed
+ * $09 - Time between sensor transitions (calculated): 0.48 s -> Passed
+
+:: Bank 1 - Sensor 2 ::
+ * $01 - Rich to lean sensor threshold voltage (constant): 0.650 V -> Passed
+ * $02 - Lean to rich sensor threshold voltage (constant): 0.650 V -> Passed
+ * $07 - Minimum sensor voltage for test cycle (calculated): 0.000 V -> Passed
+ * $08 - Maximum sensor voltage for test cycle (calculated): 0.960 V -> Passed
+
+Diagnostic information provided by OBD Auto Doctor
