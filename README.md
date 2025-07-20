@@ -1,5 +1,3 @@
-# AutoSecScan
-Car diagnostics with a focus on cybersecurity
 # AutoSecScan   
 **Car diagnostics + OBD-II security case**
 
@@ -56,9 +54,8 @@ It also includes a basic analysis of the cybersecurity risks associated with OBD
 
 ##  Files in this project
 
-- `AutoSecScan.docx` — Full diagnostic report, before/After screenshots     
-- `logs/` — Diagnostic logs (optional)
-
+- [📄 Full Report, Before/After Screenshots(DOCX)](AutoSecScan.docx)
+- [Diagnostic Logs](logs/)
 ---
 
 ##  Author
